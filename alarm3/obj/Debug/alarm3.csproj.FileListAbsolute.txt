@@ -1,0 +1,10 @@
+D:\Hurude Hanyu\alarm3\alarm3\bin\Debug\alarm3.exe.config
+D:\Hurude Hanyu\alarm3\alarm3\obj\Debug\alarm3.csprojResolveAssemblyReference.cache
+D:\Hurude Hanyu\alarm3\alarm3\obj\Debug\alarm3.Form1.resources
+D:\Hurude Hanyu\alarm3\alarm3\obj\Debug\alarm3.Form2.resources
+D:\Hurude Hanyu\alarm3\alarm3\obj\Debug\alarm3.Properties.Resources.resources
+D:\Hurude Hanyu\alarm3\alarm3\obj\Debug\alarm3.csproj.GenerateResource.Cache
+D:\Hurude Hanyu\alarm3\alarm3\bin\Debug\alarm3.exe
+D:\Hurude Hanyu\alarm3\alarm3\bin\Debug\alarm3.pdb
+D:\Hurude Hanyu\alarm3\alarm3\obj\Debug\alarm3.exe
+D:\Hurude Hanyu\alarm3\alarm3\obj\Debug\alarm3.pdb
